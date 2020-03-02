@@ -1,0 +1,25 @@
+
+
+
+"""
+
+STILL TO DO
+
+
+
+
+
+there is a problem with the random variables being displayed to each question... for each question displayed, there should be a randomly selected string from within each of the global variable lists at the top. sure this should be in the random function, wanted to learn more to be sure. 
+
+
+a if statement for if num_question_to_display > questions_lists
+to display all questions, so there is no error.
+I understand the concept but keep getting syntax errors.
+
+
+learning about instancing to make one generic class that I can copy hundreds of times. 
+not 100% sure yet, learning. 
+
+
+
+"""
